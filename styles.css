@@ -1,0 +1,16 @@
+body {
+    margin:100px 0px 0px 300px;
+    width: 50em;
+    font-family:"sans serif";
+    color:antiquewhite;
+    background-color: #231b18;
+}
+.picture {
+    position:absolute;
+    left:800px;
+    margin-top:-50px
+}
+h4 {
+    text-decoration: underline;
+    margin:80px 50px 10px 0px;
+}
